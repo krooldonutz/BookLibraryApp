@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74826472189",
+    "project_id": "booklibraryapp-44a53",
+    "storage_bucket": "booklibraryapp-44a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74826472189:android:c163a772474cddae0efc94",
+        "android_client_info": {
+          "package_name": "com.example.labweek5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74826472189-kaqbtftg4svvb4nbl9nk8pfdldj0p95a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvQBWPzdFWgL8yoJontI1R4pqEI5VZ140"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74826472189-kaqbtftg4svvb4nbl9nk8pfdldj0p95a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
