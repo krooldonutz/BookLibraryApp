@@ -2,8 +2,7 @@
 
 # BookLibraryApp 
 
-<img width="1440" alt="Screenshot 2023-06-11 at 01 33 39 (2)" src="https://github.com/krooldonutz/BookLibraryApp/assets/26025886/57f2d4a8-90c9-4a94-9974-f231f8ed6513">
-
+<img width="1920" alt="Screenshot 2023-06-11 at 01 42 37" src="https://github.com/krooldonutz/BookLibraryApp/assets/26025886/bf4c0802-1a36-45a1-a765-9f7bfe4afcbf">
 
 This repository contains the code for an Android application developed during my Semester as a semester long project. The application is a book library app that allows users to manage their book collection. It uses Firebase Realtime Database for data storage and retrieval.
 
